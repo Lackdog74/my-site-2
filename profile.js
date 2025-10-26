@@ -10,7 +10,7 @@
 
 const PROFILE = {
     // ========== BASIC INFORMATION ==========
-    name: "Steven Holtman",
+    name: "Sophie Beckett",
     title: "L3 Engineer / Project Manager",
     email: "stevenholtman@gmail.com",
     phone: "(805) 556-2356",
