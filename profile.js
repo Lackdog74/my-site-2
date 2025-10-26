@@ -11,11 +11,11 @@
 const PROFILE = {
     // ========== BASIC INFORMATION ==========
     name: "Sophie Beckett",
-    title: "L3 Engineer / Project Manager",
-    email: "stevenholtman@gmail.com",
+    title: "Cabi Stylist",
+    email: "sophielbeckett@gmail.com",
     phone: "(805) 556-2356",
-    website: "stevenholtman.com",
-    websiteURL: "https://stevenholtman.com",
+    website: "mamasoph.com",
+    websiteURL: "https://mamasoph.com",
     profileImage: "images/profile.jpeg", // Path to your profile image
 
     // ========== SOCIAL & CONTACT LINKS ==========
