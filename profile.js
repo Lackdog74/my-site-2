@@ -16,7 +16,7 @@ const PROFILE = {
     phone: "(805) 556-2356",
     website: "mamasoph.com",
     websiteURL: "https://mamasoph.com",
-    profileImage: "images/profile.jpeg", // Path to your profile image
+    profileImage: "IMG_1438.jpg", // Path to your profile image
 
     // ========== SOCIAL & CONTACT LINKS ==========
     social: {
