@@ -50,7 +50,7 @@ const PROFILE = {
 
     // ========== RESUME/EXPERIENCE ==========
     resume: {
-        filename: "Steven Holtman Resume.pdf", // Resume file in /resume/ folder
+        filename: "mamasoph Resume.pdf", // Resume file in /resume/ folder
         experience: [
             {
                 company: "ITECH Solutions",
