@@ -4396,10 +4396,10 @@ ${userName}@steven
                         }
 
                         // Replace other common patterns
-                        text = text.replace(/Steven Holtman/g, PROFILE.name);
-                        text = text.replace(/stevenholtman/g, PROFILE.name.toLowerCase().replace(' ', ''));
+                        text = text.replace(/mamasoph/g, PROFILE.name);
+                        text = text.replace(/mamasoph/g, PROFILE.name.toLowerCase().replace(' ', ''));
                         text = text.replace(/8055562356|\\(805\\) 556-2356|805 556 2356/g, PROFILE.phone);
-                        text = text.replace(/stevenholtman@gmail.com/gi, PROFILE.email);
+                        text = text.replace(/mamasoph@gmail.com/gi, PROFILE.email);
 
                         if (text !== originalText) {
                             node.textContent = text;
