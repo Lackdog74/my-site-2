@@ -21,32 +21,32 @@ const PROFILE = {
     // ========== SOCIAL & CONTACT LINKS ==========
     social: {
         github: {
-            url: "https://github.com/stevenholtman",
-            username: "stevenholtman",
-            display: "github.com/stevenholtman"
+            url: "https://github.com/mamasoph",
+            username: "mamasoph",
+            display: "github.com/mamasoph"
         },
         linkedin: {
-            url: "https://linkedin.com/in/stevenholtman",
-            username: "stevenholtman",
-            display: "linkedin.com/in/stevenholtman"
+            url: "https://linkedin.com/in/mamasoph",
+            username: "mamasoph",
+            display: "linkedin.com/in/mamasoph"
         },
         facebook: {
-            url: "https://www.facebook.com/crypxen",
-            username: "crypxen",
-            display: "facebook.com/crypxen"
+            url: "https://www.facebook.com/mamasoph",
+            username: "mamasoph",
+            display: "facebook.com/mamasoph"
         },
         instagram: {
-            url: "https://www.instagram.com/stevenholtman/",
-            username: "stevenholtman",
-            display: "instagram.com/stevenholtman"
+            url: "https://www.instagram.com/mamasoph/",
+            username: "mamasoph",
+            display: "instagram.com/mamasoph"
         }
     },
 
     // ========== PROFESSIONAL SUMMARY ==========
-    missionStatement: "IT Engineer and developer with 19 years of experience building secure, scalable infrastructure solutions. I specialize in automation, networking, and cybersecurity–transforming complex technical challenges into streamlined systems that drive business growth.",
+    missionStatement: "Enter Blurb Here",
 
     // ========== ABOUT/BIO SECTION ==========
-    about: "When I'm not architecting systems or solving complex technical challenges, you'll find me spending quality time with family and friends. I'm an avid gamer—from competitive video games to strategic board and card games—where the same problem-solving skills I use in IT come into play. There's nothing quite like the thrill of a well-executed strategy!\n\nI'm passionate about creating projects outside of work—whether it's developing new applications, exploring emerging technologies, or building physical projects. There's something incredibly rewarding about taking an idea from concept to completion, and I love the hands-on experience of bringing projects to life. This entrepreneurial spirit drives much of what I do professionally as well.\n\nI'm an outdoor enthusiast who loves camping trips and exploring nature. Some of my favorite moments are spent walking along the beach, breathing in the ocean air, and watching the sunset paint the sky in brilliant colors. There's something about nature that provides the perfect balance to a career in technology.",
+    about: "Enter Blurb here\n\nBlurb\n\nI'm an outdoor enthusiast who loves camping trips and exploring nature. Some of my favorite moments are spent walking along the beach, breathing in the ocean air, and watching the sunset paint the sky in brilliant colors. There's something about nature that provides the perfect balance to a career in technology.",
 
     // ========== RESUME/EXPERIENCE ==========
     resume: {
